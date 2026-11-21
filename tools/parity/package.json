@@ -1,0 +1,7 @@
+{
+  "name": "m3e-imgui-parity-fixture",
+  "private": true,
+  "dependencies": {
+    "@m3e/web": "2.13.5"
+  }
+}

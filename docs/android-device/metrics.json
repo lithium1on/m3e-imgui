@@ -1,0 +1,58 @@
+{
+  "android_release": "16",
+  "compose_material3": "1.5.0",
+  "typeface": "Google Sans Flex",
+  "logical_size_dp": [
+    360,
+    688
+  ],
+  "samples": {
+    "light": {
+      "scale": 3.0,
+      "font_scale": 0.9,
+      "pixels": [
+        1080,
+        2064
+      ],
+      "pixels_above_12_percent": 1.105,
+      "foreground_pixels_above_12_percent": 3.835,
+      "stop_indicator_at_62_and_98_percent": {
+        "phone": [
+          true,
+          false
+        ],
+        "windows": [
+          true,
+          false
+        ]
+      }
+    },
+    "dark": {
+      "scale": 3.0,
+      "font_scale": 0.9,
+      "pixels": [
+        1080,
+        2064
+      ],
+      "pixels_above_12_percent": 1.173,
+      "foreground_pixels_above_12_percent": 4.269,
+      "stop_indicator_at_62_and_98_percent": {
+        "phone": [
+          true,
+          false
+        ],
+        "windows": [
+          true,
+          false
+        ]
+      }
+    }
+  },
+  "touch_events": [
+    "destination=Explore",
+    "favorite=false",
+    "notes=1",
+    "slider=100"
+  ],
+  "wallpaper_palette_differs_from_default": true
+}

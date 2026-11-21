@@ -1,0 +1,2572 @@
+{
+  "upstream_revision": "489ad4c65b9ee348ee859cda214311cf39bcc842",
+  "upstream_version": "2.13.5",
+  "logical_size": [
+    760,
+    390
+  ],
+  "scale": 1.0,
+  "density": 0.0,
+  "reduced_motion": false,
+  "samples": [
+    {
+      "case": "button",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 94.140625,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 24,
+          "width": 74.40625,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 24,
+          "width": 74.9375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 24,
+          "width": 93.21875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 24,
+          "width": 67.484375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "extra-small",
+          "x": 24,
+          "y": 208,
+          "width": 41.6875,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 118,
+          "y": 208,
+          "width": 57.6875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "medium",
+          "x": 228,
+          "y": 208,
+          "width": 101.03125,
+          "height": 56
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "large",
+          "x": 353,
+          "y": 208,
+          "width": 126.046875,
+          "height": 96
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "extra-large",
+          "x": 520,
+          "y": 208,
+          "width": 168.046875,
+          "height": 136
+        }
+      ],
+      "pixels_above_12_percent": 2.87,
+      "mean_max_rgb_delta": 1.33,
+      "motion_ms": [
+        43,
+        142,
+        332,
+        514,
+        617,
+        673,
+        723,
+        764,
+        806,
+        850,
+        890,
+        936
+      ]
+    },
+    {
+      "case": "icon-button",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 80,
+          "width": 32,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 80,
+          "width": 52,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 568,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 568,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 568,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "extra-small",
+          "x": 24,
+          "y": 208,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 118,
+          "y": 208,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "medium",
+          "x": 228,
+          "y": 208,
+          "width": 56,
+          "height": 56
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "large",
+          "x": 353,
+          "y": 208,
+          "width": 96,
+          "height": 96
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "extra-large",
+          "x": 520,
+          "y": 208,
+          "width": 136,
+          "height": 136
+        }
+      ],
+      "pixels_above_12_percent": 0.974,
+      "mean_max_rgb_delta": 0.36,
+      "motion_ms": [
+        48,
+        115,
+        204,
+        286,
+        373,
+        443,
+        531,
+        620,
+        684,
+        773,
+        859,
+        936
+      ]
+    },
+    {
+      "case": "connected",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 223.484375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "small",
+          "x": 24,
+          "y": 80,
+          "width": 244.484375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "medium",
+          "x": 24,
+          "y": 150,
+          "width": 265.671875,
+          "height": 56
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "large",
+          "x": 24,
+          "y": 234,
+          "width": 459.5,
+          "height": 96
+        }
+      ],
+      "pixels_above_12_percent": 1.614,
+      "mean_max_rgb_delta": 0.98,
+      "motion_ms": [
+        77,
+        169,
+        288,
+        412,
+        513,
+        589,
+        642,
+        699,
+        746,
+        787,
+        853,
+        939
+      ]
+    },
+    {
+      "case": "tabs",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-tabs",
+          "variant": "primary",
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 264.6875,
+          "height": 65
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 112,
+          "width": 360.6875,
+          "height": 49
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 188,
+          "width": 360.6875,
+          "height": 49
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "primary",
+          "size": null,
+          "x": 24,
+          "y": 264,
+          "width": 560,
+          "height": 65
+        }
+      ],
+      "pixels_above_12_percent": 1.804,
+      "mean_max_rgb_delta": 1.05,
+      "motion_ms": [
+        28,
+        100,
+        192,
+        295,
+        374,
+        443,
+        524,
+        610,
+        694,
+        772,
+        854,
+        940
+      ]
+    },
+    {
+      "case": "menu",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 88.46875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "standard",
+          "size": null,
+          "x": 24,
+          "y": 68,
+          "width": 168,
+          "height": 209
+        }
+      ],
+      "pixels_above_12_percent": 1.588,
+      "mean_max_rgb_delta": 0.71,
+      "motion_ms": [
+        40,
+        114,
+        212,
+        295,
+        378,
+        441,
+        523,
+        606,
+        693,
+        767,
+        850,
+        942
+      ]
+    },
+    {
+      "case": "menu-vibrant",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 88.46875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "vibrant",
+          "size": null,
+          "x": 24,
+          "y": 68,
+          "width": 168,
+          "height": 209
+        }
+      ],
+      "pixels_above_12_percent": 1.588,
+      "mean_max_rgb_delta": 0.74,
+      "motion_ms": [
+        26,
+        100,
+        192,
+        287,
+        362,
+        437,
+        523,
+        613,
+        689,
+        772,
+        853,
+        935
+      ]
+    },
+    {
+      "case": "submenu",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 88.46875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "standard",
+          "size": null,
+          "x": 24,
+          "y": 68,
+          "width": 168,
+          "height": 209
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "standard",
+          "size": null,
+          "x": 196,
+          "y": 118,
+          "width": 168,
+          "height": 98
+        }
+      ],
+      "pixels_above_12_percent": 2.368,
+      "mean_max_rgb_delta": 1.21,
+      "motion_ms": [
+        30,
+        109,
+        194,
+        280,
+        351,
+        436,
+        522,
+        608,
+        686,
+        773,
+        856,
+        948
+      ]
+    },
+    {
+      "case": "text-field",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 24,
+          "y": 32,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 336,
+          "y": 32,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 120,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 336,
+          "y": 120,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 228,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 336,
+          "y": 228,
+          "width": 270,
+          "height": 120
+        }
+      ],
+      "pixels_above_12_percent": 2.138,
+      "mean_max_rgb_delta": 1.97,
+      "motion_ms": [
+        17,
+        98,
+        182,
+        265,
+        345,
+        428,
+        511,
+        595,
+        677,
+        764,
+        844,
+        932
+      ]
+    },
+    {
+      "case": "checkbox",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 196,
+          "width": 146.046875,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 0.254,
+      "mean_max_rgb_delta": 0.22,
+      "motion_ms": [
+        13,
+        93,
+        179,
+        266,
+        351,
+        429,
+        512,
+        596,
+        676,
+        760,
+        846,
+        934
+      ]
+    },
+    {
+      "case": "switch",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 104,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 184,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 264,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 104,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 184,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 264,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 152,
+          "width": 133.046875,
+          "height": 32
+        }
+      ],
+      "pixels_above_12_percent": 0.474,
+      "mean_max_rgb_delta": 0.32,
+      "motion_ms": [
+        19,
+        98,
+        181,
+        266,
+        350,
+        432,
+        515,
+        596,
+        679,
+        762,
+        845,
+        934
+      ]
+    },
+    {
+      "case": "slider",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-small",
+          "x": 24,
+          "y": 24,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 24,
+          "y": 76,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "medium",
+          "x": 24,
+          "y": 128,
+          "width": 240,
+          "height": 52
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "large",
+          "x": 24,
+          "y": 188,
+          "width": 240,
+          "height": 68
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-large",
+          "x": 24,
+          "y": 266,
+          "width": 240,
+          "height": 108
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 24,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 76,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 128,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 598,
+          "y": 24,
+          "width": 44,
+          "height": 240
+        }
+      ],
+      "pixels_above_12_percent": 0.31,
+      "mean_max_rgb_delta": 0.18,
+      "motion_ms": [
+        15,
+        94,
+        190,
+        279,
+        351,
+        435,
+        520,
+        602,
+        685,
+        771,
+        853,
+        943
+      ]
+    },
+    {
+      "case": "dialog",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 115.84375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-dialog",
+          "variant": null,
+          "size": null,
+          "x": 220,
+          "y": 100,
+          "width": 320,
+          "height": 190
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 172,
+          "y": 24,
+          "width": 107.6875,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 1.967,
+      "mean_max_rgb_delta": 1.99,
+      "motion_ms": [
+        42,
+        109,
+        203,
+        303,
+        374,
+        443,
+        534,
+        634,
+        718,
+        785,
+        847,
+        936
+      ]
+    },
+    {
+      "case": "tooltip",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 148,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-tooltip",
+          "variant": null,
+          "size": null,
+          "x": 136.484375,
+          "y": 104,
+          "width": 63.03125,
+          "height": 24
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 250,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 352,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 454,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 0.325,
+      "mean_max_rgb_delta": 0.17,
+      "motion_ms": [
+        51,
+        114,
+        187,
+        270,
+        354,
+        438,
+        516,
+        598,
+        693,
+        773,
+        851,
+        938
+      ]
+    },
+    {
+      "case": "rich-tooltip",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 148,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-rich-tooltip",
+          "variant": null,
+          "size": null,
+          "x": 28,
+          "y": 104,
+          "width": 280,
+          "height": 136
+        }
+      ],
+      "pixels_above_12_percent": 2.516,
+      "mean_max_rgb_delta": 1.18,
+      "motion_ms": [
+        25,
+        99,
+        186,
+        283,
+        379,
+        442,
+        520,
+        602,
+        691,
+        766,
+        845,
+        936
+      ]
+    },
+    {
+      "case": "connected-icons",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 124,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "medium",
+          "x": 24,
+          "y": 94,
+          "width": 220,
+          "height": 56
+        }
+      ],
+      "pixels_above_12_percent": 0.365,
+      "mean_max_rgb_delta": 0.14,
+      "motion_ms": [
+        40,
+        109,
+        210,
+        288,
+        360,
+        445,
+        533,
+        605,
+        689,
+        762,
+        850,
+        941
+      ]
+    },
+    {
+      "case": "rich-hover",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 148,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-rich-tooltip",
+          "variant": null,
+          "size": null,
+          "x": 28,
+          "y": 104,
+          "width": 280,
+          "height": 88
+        }
+      ],
+      "pixels_above_12_percent": 2.976,
+      "mean_max_rgb_delta": 1.56,
+      "motion_ms": [
+        26,
+        104,
+        188,
+        278,
+        348,
+        437,
+        517,
+        602,
+        684,
+        768,
+        851,
+        941
+      ]
+    },
+    {
+      "case": "button",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 94.140625,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 24,
+          "width": 74.40625,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 24,
+          "width": 74.9375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 24,
+          "width": 93.21875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 24,
+          "width": 67.484375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 80,
+          "width": 111.078125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 136,
+          "width": 95.09375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "extra-small",
+          "x": 24,
+          "y": 208,
+          "width": 41.6875,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 118,
+          "y": 208,
+          "width": 57.6875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "medium",
+          "x": 228,
+          "y": 208,
+          "width": 101.03125,
+          "height": 56
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "large",
+          "x": 353,
+          "y": 208,
+          "width": 126.046875,
+          "height": 96
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "extra-large",
+          "x": 520,
+          "y": 208,
+          "width": 168.046875,
+          "height": 136
+        }
+      ],
+      "pixels_above_12_percent": 2.417,
+      "mean_max_rgb_delta": 1.47,
+      "motion_ms": [
+        43,
+        118,
+        196,
+        289,
+        369,
+        442,
+        524,
+        603,
+        689,
+        775,
+        853,
+        945
+      ]
+    },
+    {
+      "case": "icon-button",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 80,
+          "width": 32,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 80,
+          "width": 52,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 568,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 568,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 568,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "extra-small",
+          "x": 24,
+          "y": 208,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 118,
+          "y": 208,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "medium",
+          "x": 228,
+          "y": 208,
+          "width": 56,
+          "height": 56
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "large",
+          "x": 353,
+          "y": 208,
+          "width": 96,
+          "height": 96
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "tonal",
+          "size": "extra-large",
+          "x": 520,
+          "y": 208,
+          "width": 136,
+          "height": 136
+        }
+      ],
+      "pixels_above_12_percent": 0.806,
+      "mean_max_rgb_delta": 0.39,
+      "motion_ms": [
+        56,
+        129,
+        206,
+        293,
+        387,
+        451,
+        525,
+        606,
+        689,
+        771,
+        852,
+        940
+      ]
+    },
+    {
+      "case": "connected",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 223.484375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "small",
+          "x": 24,
+          "y": 80,
+          "width": 244.484375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "medium",
+          "x": 24,
+          "y": 150,
+          "width": 265.671875,
+          "height": 56
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "large",
+          "x": 24,
+          "y": 234,
+          "width": 459.5,
+          "height": 96
+        }
+      ],
+      "pixels_above_12_percent": 1.654,
+      "mean_max_rgb_delta": 1.02,
+      "motion_ms": [
+        32,
+        110,
+        212,
+        313,
+        393,
+        457,
+        532,
+        616,
+        685,
+        768,
+        859,
+        931
+      ]
+    },
+    {
+      "case": "tabs",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-tabs",
+          "variant": "primary",
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 264.6875,
+          "height": 65
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 112,
+          "width": 360.6875,
+          "height": 49
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 188,
+          "width": 360.6875,
+          "height": 49
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "primary",
+          "size": null,
+          "x": 24,
+          "y": 264,
+          "width": 560,
+          "height": 65
+        }
+      ],
+      "pixels_above_12_percent": 1.862,
+      "mean_max_rgb_delta": 1.31,
+      "motion_ms": [
+        29,
+        107,
+        189,
+        281,
+        367,
+        444,
+        522,
+        605,
+        690,
+        769,
+        852,
+        940
+      ]
+    },
+    {
+      "case": "menu",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 88.46875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "standard",
+          "size": null,
+          "x": 24,
+          "y": 68,
+          "width": 168,
+          "height": 209
+        }
+      ],
+      "pixels_above_12_percent": 0.736,
+      "mean_max_rgb_delta": 0.58,
+      "motion_ms": [
+        24,
+        102,
+        191,
+        282,
+        362,
+        439,
+        522,
+        605,
+        686,
+        768,
+        854,
+        943
+      ]
+    },
+    {
+      "case": "menu-vibrant",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 88.46875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "vibrant",
+          "size": null,
+          "x": 24,
+          "y": 68,
+          "width": 168,
+          "height": 209
+        }
+      ],
+      "pixels_above_12_percent": 0.738,
+      "mean_max_rgb_delta": 0.39,
+      "motion_ms": [
+        29,
+        103,
+        190,
+        292,
+        367,
+        443,
+        528,
+        603,
+        693,
+        771,
+        859,
+        945
+      ]
+    },
+    {
+      "case": "submenu",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 88.46875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "standard",
+          "size": null,
+          "x": 24,
+          "y": 68,
+          "width": 168,
+          "height": 209
+        },
+        {
+          "tag": "m3e-menu",
+          "variant": "standard",
+          "size": null,
+          "x": 196,
+          "y": 118,
+          "width": 168,
+          "height": 98
+        }
+      ],
+      "pixels_above_12_percent": 1.198,
+      "mean_max_rgb_delta": 0.96,
+      "motion_ms": [
+        32,
+        119,
+        229,
+        319,
+        381,
+        442,
+        536,
+        610,
+        686,
+        764,
+        854,
+        940
+      ]
+    },
+    {
+      "case": "text-field",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 24,
+          "y": 32,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 336,
+          "y": 32,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 120,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 336,
+          "y": 120,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 228,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 336,
+          "y": 228,
+          "width": 270,
+          "height": 120
+        }
+      ],
+      "pixels_above_12_percent": 2.205,
+      "mean_max_rgb_delta": 2.53,
+      "motion_ms": [
+        35,
+        106,
+        191,
+        278,
+        360,
+        438,
+        523,
+        605,
+        688,
+        772,
+        852,
+        936
+      ]
+    },
+    {
+      "case": "checkbox",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 24,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 80,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 136,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 196,
+          "width": 146.046875,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 0.278,
+      "mean_max_rgb_delta": 0.29,
+      "motion_ms": [
+        30,
+        106,
+        195,
+        279,
+        358,
+        439,
+        519,
+        606,
+        684,
+        773,
+        855,
+        944
+      ]
+    },
+    {
+      "case": "switch",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 104,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 184,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 264,
+          "y": 24,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 104,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 184,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 264,
+          "y": 86,
+          "width": 52,
+          "height": 32
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 152,
+          "width": 133.046875,
+          "height": 32
+        }
+      ],
+      "pixels_above_12_percent": 0.443,
+      "mean_max_rgb_delta": 0.37,
+      "motion_ms": [
+        29,
+        104,
+        188,
+        287,
+        379,
+        450,
+        526,
+        596,
+        681,
+        771,
+        853,
+        935
+      ]
+    },
+    {
+      "case": "slider",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-small",
+          "x": 24,
+          "y": 24,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 24,
+          "y": 76,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "medium",
+          "x": 24,
+          "y": 128,
+          "width": 240,
+          "height": 52
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "large",
+          "x": 24,
+          "y": 188,
+          "width": 240,
+          "height": 68
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-large",
+          "x": 24,
+          "y": 266,
+          "width": 240,
+          "height": 108
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 24,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 76,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 128,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 598,
+          "y": 24,
+          "width": 44,
+          "height": 240
+        }
+      ],
+      "pixels_above_12_percent": 0.395,
+      "mean_max_rgb_delta": 0.24,
+      "motion_ms": [
+        27,
+        101,
+        192,
+        281,
+        354,
+        444,
+        520,
+        602,
+        684,
+        770,
+        850,
+        935
+      ]
+    },
+    {
+      "case": "dialog",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 115.84375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-dialog",
+          "variant": null,
+          "size": null,
+          "x": 220,
+          "y": 100,
+          "width": 320,
+          "height": 190
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 172,
+          "y": 24,
+          "width": 107.6875,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 1.709,
+      "mean_max_rgb_delta": 1.09,
+      "motion_ms": [
+        25,
+        104,
+        208,
+        288,
+        365,
+        438,
+        521,
+        610,
+        691,
+        770,
+        851,
+        935
+      ]
+    },
+    {
+      "case": "tooltip",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 148,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-tooltip",
+          "variant": null,
+          "size": null,
+          "x": 136.484375,
+          "y": 104,
+          "width": 63.03125,
+          "height": 24
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 250,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 352,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 454,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 0.339,
+      "mean_max_rgb_delta": 0.2,
+      "motion_ms": [
+        35,
+        106,
+        189,
+        270,
+        346,
+        430,
+        525,
+        601,
+        686,
+        762,
+        852,
+        939
+      ]
+    },
+    {
+      "case": "rich-tooltip",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 148,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-rich-tooltip",
+          "variant": null,
+          "size": null,
+          "x": 28,
+          "y": 104,
+          "width": 280,
+          "height": 136
+        }
+      ],
+      "pixels_above_12_percent": 1.289,
+      "mean_max_rgb_delta": 0.71,
+      "motion_ms": [
+        26,
+        104,
+        188,
+        282,
+        359,
+        447,
+        527,
+        610,
+        692,
+        769,
+        850,
+        932
+      ]
+    },
+    {
+      "case": "connected-icons",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 124,
+          "height": 40
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "connected",
+          "size": "medium",
+          "x": 24,
+          "y": 94,
+          "width": 220,
+          "height": 56
+        }
+      ],
+      "pixels_above_12_percent": 0.371,
+      "mean_max_rgb_delta": 0.15,
+      "motion_ms": [
+        17,
+        106,
+        188,
+        282,
+        366,
+        447,
+        527,
+        607,
+        685,
+        760,
+        855,
+        940
+      ]
+    },
+    {
+      "case": "rich-hover",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-icon-button",
+          "variant": "standard",
+          "size": "small",
+          "x": 148,
+          "y": 60,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "tag": "m3e-rich-tooltip",
+          "variant": null,
+          "size": null,
+          "x": 28,
+          "y": 104,
+          "width": 280,
+          "height": 88
+        }
+      ],
+      "pixels_above_12_percent": 1.869,
+      "mean_max_rgb_delta": 1.21,
+      "motion_ms": [
+        38,
+        99,
+        186,
+        274,
+        358,
+        435,
+        516,
+        607,
+        686,
+        766,
+        851,
+        941
+      ]
+    }
+  ],
+  "chromium_version": "157.0.4341.60"
+}

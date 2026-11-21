@@ -1,0 +1,2508 @@
+{
+  "upstream_revision": "489ad4c65b9ee348ee859cda214311cf39bcc842",
+  "upstream_version": "2.13.5",
+  "logical_size": [
+    760,
+    810
+  ],
+  "scale": 1.0,
+  "density": 0.0,
+  "reduced_motion": false,
+  "samples": [
+    {
+      "case": "selection",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 55.5,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 405.203125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-input-chip",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 118,
+          "width": 112.703125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 185,
+          "width": 117.90625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-radio-group",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 222,
+          "width": 483.921875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 306,
+          "width": 154.1875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-segmented-button",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 342,
+          "width": 235.953125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 414,
+          "width": 172.859375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-segmented-button",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 450,
+          "width": 213.953125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 530,
+          "width": 219.3125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "standard",
+          "size": "small",
+          "x": 24,
+          "y": 566,
+          "width": 355.328125,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 5.252,
+      "mean_max_rgb_delta": 4.87,
+      "motion_ms": [
+        19,
+        102,
+        196,
+        274,
+        352,
+        438,
+        522,
+        598,
+        678,
+        766,
+        850,
+        936
+      ]
+    },
+    {
+      "case": "search-inputs",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 137.484375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 320,
+          "height": 76
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 16,
+          "width": 144.84375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-search-view",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 52,
+          "width": 320,
+          "height": 56
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 288,
+          "width": 60.46875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 324,
+          "width": 240,
+          "height": 76
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 288,
+          "width": 215.78125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 382,
+          "y": 324,
+          "width": 300,
+          "height": 100
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 500,
+          "width": 167.703125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-search-view",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 536,
+          "width": 712,
+          "height": 56
+        }
+      ],
+      "pixels_above_12_percent": 5.289,
+      "mean_max_rgb_delta": 3.67,
+      "motion_ms": [
+        25,
+        100,
+        181,
+        273,
+        354,
+        433,
+        516,
+        601,
+        685,
+        766,
+        849,
+        937
+      ]
+    },
+    {
+      "case": "date-time",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 87.28125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-calendar",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 352,
+          "height": 408
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 16,
+          "width": 273.28125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 382,
+          "y": 52,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-calendar",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 130,
+          "width": 352,
+          "height": 408
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 382,
+          "y": 454,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 380,
+          "width": 95.421875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-timepicker-dial",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 416,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 542,
+          "width": 199.78125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-timepicker-input",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 578,
+          "width": 280,
+          "height": 104
+        }
+      ],
+      "pixels_above_12_percent": 14.889,
+      "mean_max_rgb_delta": 11.29,
+      "motion_ms": [
+        22,
+        100,
+        183,
+        277,
+        358,
+        436,
+        520,
+        600,
+        694,
+        774,
+        853,
+        938
+      ]
+    },
+    {
+      "case": "cards-lists",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 57.3125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-card",
+          "variant": "filled",
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 208,
+          "height": 140
+        },
+        {
+          "tag": "m3e-card",
+          "variant": "outlined",
+          "size": null,
+          "x": 254,
+          "y": 52,
+          "width": 208,
+          "height": 142
+        },
+        {
+          "tag": "m3e-card",
+          "variant": "elevated",
+          "size": null,
+          "x": 484,
+          "y": 52,
+          "width": 208,
+          "height": 140
+        },
+        {
+          "tag": "m3e-content-pane",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 220,
+          "width": 324,
+          "height": 213
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 218,
+          "width": 146.171875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-list",
+          "variant": "segmented",
+          "size": null,
+          "x": 382,
+          "y": 254,
+          "width": 320,
+          "height": 204
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 476,
+          "width": 145.703125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-drawer-container",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 521,
+          "width": 712,
+          "height": 230
+        }
+      ],
+      "pixels_above_12_percent": 11.64,
+      "mean_max_rgb_delta": 8.24,
+      "motion_ms": [
+        17,
+        97,
+        185,
+        273,
+        359,
+        439,
+        521,
+        601,
+        682,
+        763,
+        849,
+        938
+      ]
+    },
+    {
+      "case": "navigation-layout",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 140.21875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-nav-rail",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 96,
+          "height": 215
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 154,
+          "y": 16,
+          "width": 170.140625,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 154,
+          "y": 52,
+          "width": 156,
+          "height": 127
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 16,
+          "width": 42.90625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-tree",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 52,
+          "width": 240,
+          "height": 336
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 319,
+          "width": 131.109375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-breadcrumb",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 352,
+          "width": 240.296875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 440,
+          "width": 94.53125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-paginator",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 476,
+          "width": 433.4375,
+          "height": 48
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 440,
+          "width": 75.765625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-stepper",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 476,
+          "width": 481.953125,
+          "height": 112
+        }
+      ],
+      "pixels_above_12_percent": 7.17,
+      "mean_max_rgb_delta": 5.54,
+      "motion_ms": [
+        23,
+        96,
+        194,
+        272,
+        357,
+        432,
+        516,
+        600,
+        684,
+        770,
+        853,
+        940
+      ]
+    },
+    {
+      "case": "panes-carousel",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 108.265625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-split-pane",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 680,
+          "height": 160
+        },
+        {
+          "tag": "m3e-split-pane",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 246,
+          "width": 304,
+          "height": 176
+        },
+        {
+          "tag": "m3e-carousel",
+          "variant": "hero",
+          "size": null,
+          "x": 382,
+          "y": 246,
+          "width": 316,
+          "height": 176
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 458,
+          "width": 109.921875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-slide-group",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 490,
+          "width": 290,
+          "height": 32
+        }
+      ],
+      "pixels_above_12_percent": 11.27,
+      "mean_max_rgb_delta": 3.94,
+      "motion_ms": [
+        26,
+        100,
+        199,
+        272,
+        356,
+        434,
+        516,
+        597,
+        682,
+        769,
+        855,
+        935
+      ]
+    },
+    {
+      "case": "sheets-actions",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 67.078125,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 352.4375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-bottom-sheet",
+          "variant": null,
+          "size": null,
+          "x": 60,
+          "y": 810,
+          "width": 640,
+          "height": 405
+        },
+        {
+          "tag": "m3e-bottom-sheet",
+          "variant": null,
+          "size": null,
+          "x": 60,
+          "y": 810,
+          "width": 640,
+          "height": 405
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 139,
+          "width": 258.65625,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 175,
+          "width": 232.6875,
+          "height": 80
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 272,
+          "width": 74.296875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-toolbar",
+          "variant": "standard",
+          "size": null,
+          "x": 24,
+          "y": 307,
+          "width": 371.328125,
+          "height": 64
+        },
+        {
+          "tag": "m3e-toolbar",
+          "variant": "vibrant",
+          "size": null,
+          "x": 24,
+          "y": 391,
+          "width": 355.328125,
+          "height": 64
+        },
+        {
+          "tag": "m3e-toolbar",
+          "variant": "standard",
+          "size": null,
+          "x": 382,
+          "y": 307,
+          "width": 64,
+          "height": 168
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 24,
+          "y": 510,
+          "width": 136.890625,
+          "height": 40
+        },
+        {
+          "tag": "m3e-snackbar",
+          "variant": null,
+          "size": null,
+          "x": 208,
+          "y": 755.5999755859375,
+          "width": 344,
+          "height": 38.4000244140625
+        }
+      ],
+      "pixels_above_12_percent": 7.137,
+      "mean_max_rgb_delta": 4.8,
+      "motion_ms": [
+        75,
+        185,
+        300,
+        413,
+        515,
+        600,
+        686,
+        766,
+        827,
+        890,
+        952,
+        1014
+      ]
+    },
+    {
+      "case": "feedback-shapes",
+      "scheme": "light",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 171.09375,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 132,
+          "height": 40
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 130,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "primary",
+          "size": null,
+          "x": 382,
+          "y": 130,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "tertiary",
+          "size": null,
+          "x": 24,
+          "y": 218,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "error",
+          "size": null,
+          "x": 382,
+          "y": 218,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 328,
+          "width": 72.53125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 79,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 134,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 189,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 244,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 299,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 354,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 409,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 464,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 519,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 574,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 629,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 79,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 134,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 189,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 244,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 299,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 354,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 409,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 464,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 519,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 574,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 629,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 79,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 134,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 189,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 244,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 299,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 354,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 409,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 464,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 519,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 574,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 548,
+          "width": 181.15625,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 584,
+          "width": 94,
+          "height": 48
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 548,
+          "width": 84.359375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-divider",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 654,
+          "width": 678,
+          "height": 1
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 674,
+          "width": 130.390625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-small",
+          "x": 24,
+          "y": 710,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 290,
+          "y": 709,
+          "width": 48,
+          "height": 48
+        }
+      ],
+      "pixels_above_12_percent": 6.494,
+      "mean_max_rgb_delta": 5.53,
+      "motion_ms": [
+        65,
+        162,
+        249,
+        335,
+        441,
+        534,
+        620,
+        709,
+        791,
+        869,
+        965,
+        1065
+      ]
+    },
+    {
+      "case": "selection",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 55.5,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 405.203125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-input-chip",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 118,
+          "width": 112.703125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 185,
+          "width": 117.90625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-radio-group",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 222,
+          "width": 483.921875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 306,
+          "width": 154.1875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-segmented-button",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 342,
+          "width": 235.953125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 414,
+          "width": 172.859375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-segmented-button",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 450,
+          "width": 213.953125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 530,
+          "width": 219.3125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-button-group",
+          "variant": "standard",
+          "size": "small",
+          "x": 24,
+          "y": 566,
+          "width": 355.328125,
+          "height": 40
+        }
+      ],
+      "pixels_above_12_percent": 5.247,
+      "mean_max_rgb_delta": 6.0,
+      "motion_ms": [
+        39,
+        115,
+        195,
+        315,
+        414,
+        492,
+        557,
+        616,
+        695,
+        770,
+        866,
+        950
+      ]
+    },
+    {
+      "case": "search-inputs",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 137.484375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 320,
+          "height": 76
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 16,
+          "width": 144.84375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-search-view",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 52,
+          "width": 320,
+          "height": 56
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 288,
+          "width": 60.46875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 324,
+          "width": 240,
+          "height": 76
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 288,
+          "width": 215.78125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 382,
+          "y": 324,
+          "width": 300,
+          "height": 100
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 500,
+          "width": 167.703125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-search-view",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 536,
+          "width": 712,
+          "height": 56
+        }
+      ],
+      "pixels_above_12_percent": 5.324,
+      "mean_max_rgb_delta": 4.62,
+      "motion_ms": [
+        36,
+        106,
+        223,
+        329,
+        413,
+        486,
+        548,
+        606,
+        701,
+        785,
+        867,
+        963
+      ]
+    },
+    {
+      "case": "date-time",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 87.28125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-calendar",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 352,
+          "height": 408
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 16,
+          "width": 273.28125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 382,
+          "y": 52,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-calendar",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 130,
+          "width": 352,
+          "height": 408
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 382,
+          "y": 454,
+          "width": 270,
+          "height": 76
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 380,
+          "width": 95.421875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-timepicker-dial",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 416,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 542,
+          "width": 199.78125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-timepicker-input",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 578,
+          "width": 280,
+          "height": 104
+        }
+      ],
+      "pixels_above_12_percent": 15.304,
+      "mean_max_rgb_delta": 16.36,
+      "motion_ms": [
+        59,
+        168,
+        293,
+        422,
+        531,
+        622,
+        716,
+        808,
+        925,
+        1035,
+        1102,
+        1171
+      ]
+    },
+    {
+      "case": "cards-lists",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 57.3125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-card",
+          "variant": "filled",
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 208,
+          "height": 140
+        },
+        {
+          "tag": "m3e-card",
+          "variant": "outlined",
+          "size": null,
+          "x": 254,
+          "y": 52,
+          "width": 208,
+          "height": 142
+        },
+        {
+          "tag": "m3e-card",
+          "variant": "elevated",
+          "size": null,
+          "x": 484,
+          "y": 52,
+          "width": 208,
+          "height": 140
+        },
+        {
+          "tag": "m3e-content-pane",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 220,
+          "width": 324,
+          "height": 213
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 218,
+          "width": 146.171875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-list",
+          "variant": "segmented",
+          "size": null,
+          "x": 382,
+          "y": 254,
+          "width": 320,
+          "height": 204
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 476,
+          "width": 145.703125,
+          "height": 40
+        },
+        {
+          "tag": "m3e-drawer-container",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 521,
+          "width": 712,
+          "height": 230
+        }
+      ],
+      "pixels_above_12_percent": 12.762,
+      "mean_max_rgb_delta": 11.1,
+      "motion_ms": [
+        18,
+        96,
+        190,
+        275,
+        360,
+        438,
+        516,
+        596,
+        683,
+        769,
+        851,
+        931
+      ]
+    },
+    {
+      "case": "navigation-layout",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 140.21875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-nav-rail",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 96,
+          "height": 215
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 154,
+          "y": 16,
+          "width": 170.140625,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 154,
+          "y": 52,
+          "width": 156,
+          "height": 127
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 16,
+          "width": 42.90625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-tree",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 52,
+          "width": 240,
+          "height": 336
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 319,
+          "width": 131.109375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-breadcrumb",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 352,
+          "width": 240.296875,
+          "height": 40
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 440,
+          "width": 94.53125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-paginator",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 476,
+          "width": 433.4375,
+          "height": 48
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 440,
+          "width": 75.765625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-stepper",
+          "variant": null,
+          "size": null,
+          "x": 382,
+          "y": 476,
+          "width": 481.953125,
+          "height": 112
+        }
+      ],
+      "pixels_above_12_percent": 7.238,
+      "mean_max_rgb_delta": 8.21,
+      "motion_ms": [
+        24,
+        104,
+        183,
+        271,
+        355,
+        432,
+        518,
+        597,
+        688,
+        762,
+        846,
+        934
+      ]
+    },
+    {
+      "case": "panes-carousel",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 108.265625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-split-pane",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 680,
+          "height": 160
+        },
+        {
+          "tag": "m3e-split-pane",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 246,
+          "width": 304,
+          "height": 176
+        },
+        {
+          "tag": "m3e-carousel",
+          "variant": "hero",
+          "size": null,
+          "x": 382,
+          "y": 246,
+          "width": 316,
+          "height": 176
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 458,
+          "width": 109.921875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-slide-group",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 490,
+          "width": 290,
+          "height": 32
+        }
+      ],
+      "pixels_above_12_percent": 11.503,
+      "mean_max_rgb_delta": 5.32,
+      "motion_ms": [
+        23,
+        103,
+        183,
+        270,
+        358,
+        434,
+        517,
+        599,
+        684,
+        766,
+        848,
+        936
+      ]
+    },
+    {
+      "case": "sheets-actions",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 67.078125,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 352.4375,
+          "height": 40
+        },
+        {
+          "tag": "m3e-bottom-sheet",
+          "variant": null,
+          "size": null,
+          "x": 60,
+          "y": 810,
+          "width": 640,
+          "height": 405
+        },
+        {
+          "tag": "m3e-bottom-sheet",
+          "variant": null,
+          "size": null,
+          "x": 60,
+          "y": 810,
+          "width": 640,
+          "height": 405
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 139,
+          "width": 258.65625,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 175,
+          "width": 232.6875,
+          "height": 80
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 272,
+          "width": 74.296875,
+          "height": 28
+        },
+        {
+          "tag": "m3e-toolbar",
+          "variant": "standard",
+          "size": null,
+          "x": 24,
+          "y": 307,
+          "width": 371.328125,
+          "height": 64
+        },
+        {
+          "tag": "m3e-toolbar",
+          "variant": "vibrant",
+          "size": null,
+          "x": 24,
+          "y": 391,
+          "width": 355.328125,
+          "height": 64
+        },
+        {
+          "tag": "m3e-toolbar",
+          "variant": "standard",
+          "size": null,
+          "x": 382,
+          "y": 307,
+          "width": 64,
+          "height": 168
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 24,
+          "y": 510,
+          "width": 136.890625,
+          "height": 40
+        },
+        {
+          "tag": "m3e-snackbar",
+          "variant": null,
+          "size": null,
+          "x": 208,
+          "y": 755.5999755859375,
+          "width": 344,
+          "height": 38.4000244140625
+        }
+      ],
+      "pixels_above_12_percent": 6.556,
+      "mean_max_rgb_delta": 6.35,
+      "motion_ms": [
+        58,
+        140,
+        242,
+        332,
+        408,
+        475,
+        540,
+        631,
+        698,
+        778,
+        864,
+        953
+      ]
+    },
+    {
+      "case": "feedback-shapes",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 16,
+          "width": 171.09375,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 52,
+          "width": 132,
+          "height": 40
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 130,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "primary",
+          "size": null,
+          "x": 382,
+          "y": 130,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "tertiary",
+          "size": null,
+          "x": 24,
+          "y": 218,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-callout",
+          "variant": "error",
+          "size": null,
+          "x": 382,
+          "y": 218,
+          "width": 320,
+          "height": 80
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 328,
+          "width": 72.53125,
+          "height": 28
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 79,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 134,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 189,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 244,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 299,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 354,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 409,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 464,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 519,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 574,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 629,
+          "y": 364,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 79,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 134,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 189,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 244,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 299,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 354,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 409,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 464,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 519,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 574,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 629,
+          "y": 419,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 79,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 134,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 189,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 244,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 299,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 354,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 409,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 464,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 519,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 574,
+          "y": 474,
+          "width": 42,
+          "height": 42
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 548,
+          "width": 181.15625,
+          "height": 28
+        },
+        {
+          "tag": "div",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 584,
+          "width": 94,
+          "height": 48
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 382,
+          "y": 548,
+          "width": 84.359375,
+          "height": 28
+        },
+        {
+          "tag": "m3e-divider",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 654,
+          "width": 678,
+          "height": 1
+        },
+        {
+          "tag": "m3e-heading",
+          "variant": "title",
+          "size": "large",
+          "x": 24,
+          "y": 674,
+          "width": 130.390625,
+          "height": 28
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-small",
+          "x": 24,
+          "y": 710,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-shape",
+          "variant": null,
+          "size": null,
+          "x": 290,
+          "y": 709,
+          "width": 48,
+          "height": 48
+        }
+      ],
+      "pixels_above_12_percent": 6.673,
+      "mean_max_rgb_delta": 7.34,
+      "motion_ms": [
+        54,
+        145,
+        241,
+        346,
+        465,
+        567,
+        664,
+        752,
+        856,
+        962,
+        1047,
+        1134
+      ]
+    }
+  ],
+  "chromium_version": "158.0.4370.33"
+}

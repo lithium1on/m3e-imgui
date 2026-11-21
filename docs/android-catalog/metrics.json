@@ -1,0 +1,41 @@
+{
+  "android_release": "16",
+  "fixture": "catalog",
+  "compose_material3": "1.5.0",
+  "typeface": "Google Sans Flex",
+  "logical_size_dp": [
+    360,
+    688
+  ],
+  "samples": {
+    "light": {
+      "scale": 3.0,
+      "font_scale": 0.9,
+      "pixels": [
+        1080,
+        2064
+      ],
+      "pixels_above_12_percent": 2.97,
+      "foreground_pixels_above_12_percent": 11.587
+    },
+    "dark": {
+      "scale": 3.0,
+      "font_scale": 0.9,
+      "pixels": [
+        1080,
+        2064
+      ],
+      "pixels_above_12_percent": 3.015,
+      "foreground_pixels_above_12_percent": 11.739
+    }
+  },
+  "touch_events": [
+    "filter=false",
+    "segment=0",
+    "bottom=Search",
+    "sheet=true",
+    "snackbar=true",
+    "snackbar=undo"
+  ],
+  "wallpaper_palette_differs_from_default": true
+}

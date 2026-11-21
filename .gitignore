@@ -1,0 +1,16 @@
+# CMake, local IDE settings, and capture output
+/.cache/
+/build*/
+/out/
+/CMakeUserPresets.json
+/.vs/
+imgui.ini
+
+# Reference fixture dependencies and local SDK settings
+__pycache__/
+*.py[cod]
+/tools/parity/node_modules/
+/tools/android-reference/.gradle/
+/tools/android-reference/.kotlin/
+/tools/android-reference/build/
+/tools/android-reference/local.properties

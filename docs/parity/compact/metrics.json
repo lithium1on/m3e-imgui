@@ -1,0 +1,619 @@
+{
+  "upstream_revision": "489ad4c65b9ee348ee859cda214311cf39bcc842",
+  "upstream_version": "2.13.5",
+  "logical_size": [
+    760,
+    390
+  ],
+  "scale": 1.25,
+  "density": -2.0,
+  "reduced_motion": true,
+  "samples": [
+    {
+      "case": "button",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 94.140625,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 80,
+          "width": 111.078125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "elevated",
+          "size": "small",
+          "x": 24,
+          "y": 136,
+          "width": 95.09375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 24,
+          "width": 74.40625,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 80,
+          "width": 111.078125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 160,
+          "y": 136,
+          "width": 95.09375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 24,
+          "width": 74.9375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 80,
+          "width": 111.078125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 296,
+          "y": 136,
+          "width": 95.09375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 24,
+          "width": 93.21875,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 80,
+          "width": 111.078125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 432,
+          "y": 136,
+          "width": 95.09375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 24,
+          "width": 67.484375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 80,
+          "width": 111.078125,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "text",
+          "size": "small",
+          "x": 568,
+          "y": 136,
+          "width": 95.09375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "extra-small",
+          "x": 24,
+          "y": 208,
+          "width": 41.6875,
+          "height": 24.765625
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "small",
+          "x": 118,
+          "y": 208,
+          "width": 57.6875,
+          "height": 32
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "medium",
+          "x": 228,
+          "y": 208,
+          "width": 101.03125,
+          "height": 48
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "large",
+          "x": 353,
+          "y": 208,
+          "width": 126.046875,
+          "height": 88
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "tonal",
+          "size": "extra-large",
+          "x": 520,
+          "y": 208,
+          "width": 168.046875,
+          "height": 128
+        }
+      ],
+      "pixels_above_12_percent": 2.253,
+      "mean_max_rgb_delta": 1.59
+    },
+    {
+      "case": "tabs",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-tabs",
+          "variant": "primary",
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 264.6875,
+          "height": 57
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 112,
+          "width": 360.6875,
+          "height": 41
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "secondary",
+          "size": null,
+          "x": 24,
+          "y": 188,
+          "width": 360.6875,
+          "height": 41
+        },
+        {
+          "tag": "m3e-tabs",
+          "variant": "primary",
+          "size": null,
+          "x": 24,
+          "y": 264,
+          "width": 560,
+          "height": 57
+        }
+      ],
+      "pixels_above_12_percent": 2.173,
+      "mean_max_rgb_delta": 1.63
+    },
+    {
+      "case": "text-field",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 24,
+          "y": 32,
+          "width": 270,
+          "height": 68
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 336,
+          "y": 32,
+          "width": 270,
+          "height": 68
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 120,
+          "width": 270,
+          "height": 68
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 336,
+          "y": 120,
+          "width": 270,
+          "height": 68
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "outlined",
+          "size": null,
+          "x": 24,
+          "y": 228,
+          "width": 270,
+          "height": 68
+        },
+        {
+          "tag": "m3e-form-field",
+          "variant": "filled",
+          "size": null,
+          "x": 336,
+          "y": 228,
+          "width": 270,
+          "height": 112
+        }
+      ],
+      "pixels_above_12_percent": 2.959,
+      "mean_max_rgb_delta": 2.91
+    },
+    {
+      "case": "checkbox",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 24,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 24,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 80,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 80,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 80,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 136,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 88,
+          "y": 136,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "m3e-checkbox",
+          "variant": null,
+          "size": null,
+          "x": 152,
+          "y": 136,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 196,
+          "width": 138.046875,
+          "height": 32
+        }
+      ],
+      "pixels_above_12_percent": 0.426,
+      "mean_max_rgb_delta": 0.42
+    },
+    {
+      "case": "switch",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 24,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 104,
+          "y": 24,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 184,
+          "y": 24,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 264,
+          "y": 24,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 86,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 104,
+          "y": 86,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 184,
+          "y": 86,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "m3e-switch",
+          "variant": null,
+          "size": null,
+          "x": 264,
+          "y": 86,
+          "width": 44,
+          "height": 24
+        },
+        {
+          "tag": "label",
+          "variant": null,
+          "size": null,
+          "x": 24,
+          "y": 152,
+          "width": 125.046875,
+          "height": 24
+        }
+      ],
+      "pixels_above_12_percent": 0.319,
+      "mean_max_rgb_delta": 0.32
+    },
+    {
+      "case": "slider",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-small",
+          "x": 24,
+          "y": 24,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 24,
+          "y": 76,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "medium",
+          "x": 24,
+          "y": 128,
+          "width": 240,
+          "height": 52
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "large",
+          "x": 24,
+          "y": 188,
+          "width": 240,
+          "height": 68
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "extra-large",
+          "x": 24,
+          "y": 266,
+          "width": 240,
+          "height": 108
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 24,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 76,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 304,
+          "y": 128,
+          "width": 240,
+          "height": 44
+        },
+        {
+          "tag": "m3e-slider",
+          "variant": null,
+          "size": "small",
+          "x": 598,
+          "y": 24,
+          "width": 44,
+          "height": 240
+        }
+      ],
+      "pixels_above_12_percent": 0.474,
+      "mean_max_rgb_delta": 0.33
+    },
+    {
+      "case": "dialog",
+      "scheme": "dark",
+      "browser_boxes": [
+        {
+          "tag": "m3e-button",
+          "variant": "filled",
+          "size": "small",
+          "x": 24,
+          "y": 24,
+          "width": 115.84375,
+          "height": 32
+        },
+        {
+          "tag": "m3e-dialog",
+          "variant": null,
+          "size": null,
+          "x": 220,
+          "y": 108,
+          "width": 320,
+          "height": 174
+        },
+        {
+          "tag": "m3e-button",
+          "variant": "outlined",
+          "size": "small",
+          "x": 172,
+          "y": 24,
+          "width": 107.6875,
+          "height": 32
+        }
+      ],
+      "pixels_above_12_percent": 2.213,
+      "mean_max_rgb_delta": 1.53
+    }
+  ],
+  "chromium_version": "157.0.4341.60"
+}

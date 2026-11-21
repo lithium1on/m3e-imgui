@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+*.sh text eol=lf
+/tools/android-reference/gradlew text eol=lf
+*.bat text eol=crlf
+
+*.png binary
+*.mp4 binary
+*.ttf binary
+*.jar binary
+
+/licenses/*.txt -text whitespace=-blank-at-eol,-blank-at-eof
